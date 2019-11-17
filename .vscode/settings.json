@@ -1,0 +1,24 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "cSpell.words": [
+        "darkgreen",
+        "esbenp",
+        "ionicons",
+        "leaderboard",
+        "parens",
+        "prettier",
+        "vscode"
+    ],
+    "cSpell.ignorePaths": [
+        "**/src/utils/**",
+        "package.json",
+        "**/public",
+        "**/src/index.css"
+    ],
+    "eslint.autoFixOnSave": true
+}
